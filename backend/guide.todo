@@ -1,0 +1,12 @@
+Frontend
+☐ npx create-react-app %appName% [OR npx create-react-app .] [OR npm create-react-app %appName%]
+☐ npm run start
+☐ npm run build
+☐ npm install react-router-dom@5.2.0
+
+Backend
+☐ npm init
+☐ npm i express
+☐ npm i mongoose
+☐ npm i -D nodemon
+☐ nodemon ./index.js

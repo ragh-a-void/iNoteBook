@@ -1,0 +1,10 @@
+☐ Set up the environment
+    ☐ install Node.js and run installer
+    ☐ install React Developer Chrome Tools (Chrome Extension)
+    ☐ install Thunder Client (VS Code Extension)
+    ☐ install ES7 React/Redux/GraphQL/React-Native snippets (VS Code Extension)
+    
+☐ Start up coding
+    ☐ npx create-react-app %appName% [OR npx create-react-app .] [OR npm create-react-app %appName%]
+    ☐ npm install react-router-dom@5.2.0 concurrently
+    ☐ npm run both [after adding commands to `package.json`]
